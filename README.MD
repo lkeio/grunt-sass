@@ -13,7 +13,7 @@ Configuration to automise SASS workflow using Grunt.
 - For auto browser refresh, install LiveReload extension in your browser of choice [LiveReload for chrome](https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei?hl=en), [LiveReload for Firefox](https://addons.mozilla.org/it/firefox/addon/livereload-web-extension/)
 
 # Install
-- ``` git clone <thisRepo> && cd <thisRepoName> ```
+- ``` git clone https://github.com/lkeio/grunt-sass.git && cd grunt-sass ```
 - ``` npm install ```
 
 # Usage 
