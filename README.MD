@@ -1,0 +1,25 @@
+# Grunt WorkFlow with SASS/SCSS
+
+Configuration to automise SASS workflow using Grunt.
+
+# Features:
+
+- Processing SASS
+- Creation a Virtual Host
+- Watch all Sass files inside ```src/``` for updates
+- Cross Browser Compatibility with ```autoprefixer```
+
+# Requirments
+
+- First let's install ruby and sass: ```sudo apt-get install ruby sass``` OR ```gem install sass```
+- Then let's install Grant CLI: ``` npm install -g grunt-cli  ```
+
+# Install
+- ``` git clone <thisRepo> && cd <thisRepoName> ```
+- ``` npm install ```
+
+# Usage 
+
+- run ``` grunt ``` in the root of your folder
+- visite ```http://localhost:8000``` Or ```http://127.0.0.1:8000```
+- Ready to go

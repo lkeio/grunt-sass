@@ -1,0 +1,19 @@
+{
+  "name": "grunt-task-runner-sass",
+  "version": "1.0.0",
+  "description": "Configuration to automate SASS/SCSS workflow using Grunt.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["SASS", "SCSS", "Grunt", "Task Runner"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.1.0",
+    "grunt-autoprefixer": "^3.0.4",
+    "grunt-contrib-connect": "^2.1.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.1.0"
+  }
+}
