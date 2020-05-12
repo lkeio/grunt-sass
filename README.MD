@@ -13,6 +13,7 @@ Configuration to automise SASS workflow using Grunt.
 
 - First let's install ruby and sass: ```sudo apt-get install ruby sass``` OR ```gem install sass```
 - Then let's install Grant CLI: ``` npm install -g grunt-cli  ```
+- for auto browser refresh, install LiveReload extension in your browser of choice [LiveReload for chrome](https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei?hl=en), [LiveReload for Firefox](https://addons.mozilla.org/it/firefox/addon/livereload-web-extension/)
 
 # Install
 - ``` git clone <thisRepo> && cd <thisRepoName> ```
