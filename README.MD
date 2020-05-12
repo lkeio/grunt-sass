@@ -18,5 +18,5 @@ Configuration to automise SASS workflow using Grunt.
 
 # Usage 
 - run ``` grunt ``` in the root of your folder
-- visite ```http://localhost:8000``` Or ```http://127.0.0.1:8000```
+- visite [http://localhost:8000](http://localhost:8000) Or [http://127.0.0.1:8000](http://127.0.0.1:8000)
 - Ready to go
